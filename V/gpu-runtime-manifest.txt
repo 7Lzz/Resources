@@ -1,0 +1,6 @@
+onnxruntime_providers_cuda.dll	https://github.com/7Lzz/Resources/releases/download/runtime/onnxruntime_providers_cuda.dll
+cublasLt64_12.dll	https://github.com/7Lzz/Resources/releases/download/runtime/cublasLt64_12.dll
+cublas64_12.dll	https://github.com/7Lzz/Resources/releases/download/runtime/cublas64_12.dll
+cufft64_11.dll	https://github.com/7Lzz/Resources/releases/download/runtime/cufft64_11.dll
+cudart64_12.dll	https://github.com/7Lzz/Resources/releases/download/runtime/cudart64_12.dll
+cudnn64_9.dll	https://github.com/7Lzz/Resources/releases/download/runtime/cudnn64_9.dll
